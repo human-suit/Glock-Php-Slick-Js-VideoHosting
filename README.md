@@ -91,6 +91,7 @@ msg_otp_new.php Create new messenger with user
 list_sub.php View subscriptions
 
 Everything is described in the Moy.docx file
+![image](https://github.com/user-attachments/assets/79ddd4a4-77d3-4dfc-b5a8-41e028055f95)
 ![photo_2025-01-27_10-07-15](https://github.com/user-attachments/assets/30b7dd3b-2918-467a-8844-4bc5d5f59156)
 ![photo_2025-01-27_10-07-13](https://github.com/user-attachments/assets/5f86b47f-2337-46e4-96c5-50badcf1efa1)
 ![photo_2025-01-27_10-07-11](https://github.com/user-attachments/assets/c32cf983-5038-44b4-836b-51aabe9fc59b)
@@ -108,4 +109,21 @@ Everything is described in the Moy.docx file
 ![photo_2025-01-27_10-07-22](https://github.com/user-attachments/assets/17cf83f9-3ae5-440d-8b62-73550880ef2e)
 ![photo_2025-01-27_10-07-20](https://github.com/user-attachments/assets/a41f3b78-da8b-4ac3-b1c4-f68e55b322a5)
 ![photo_2025-01-27_10-07-17](https://github.com/user-attachments/assets/b504990f-62e9-49ba-b201-e8c83d2fe14f)
+![image](https://github.com/user-attachments/assets/98fe4ce3-c68f-489c-ae42-e73d4c7c9580)
+![image](https://github.com/user-attachments/assets/bfc75394-d80b-4026-9932-a9a805db2fd4)
+![image](https://github.com/user-attachments/assets/d3e3d4a3-7d2c-4e50-813d-04d365ff0c55)
+![image](https://github.com/user-attachments/assets/1d53286a-b8db-49e2-9f97-227a93cec343)
+![image](https://github.com/user-attachments/assets/e8d733dc-30b7-49e5-805b-29cb92b40fe5)
+![image](https://github.com/user-attachments/assets/5046b932-e363-42f3-a663-d734a65fb744)
+![image](https://github.com/user-attachments/assets/1c968290-f32a-4a9b-8e10-7b8266c2b299)
+![image](https://github.com/user-attachments/assets/141ee091-624d-4e32-9b7b-856f71072d34)
+![image](https://github.com/user-attachments/assets/289d8172-daa3-4cce-8388-a45b6e90c77e)
+
+
+
+
+
+
+
+
 
